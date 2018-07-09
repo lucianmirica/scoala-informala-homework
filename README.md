@@ -1,2 +1,1 @@
 # scoala-informala-homework
-salut
